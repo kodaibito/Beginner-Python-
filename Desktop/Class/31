@@ -1,0 +1,16 @@
+n1 = int(3113)
+n2 = n1//100
+#yüzler
+n3 = n1-n2*100
+n4 = n3//10
+n5 = n4*10
+n6 = n3 - n5
+n7 = n2//10
+n8 = n7*1000
+n9 = n2*100
+n10 = n9 - n8
+n11 = n10//100
+print(n7)
+print(n11)
+print(n4)
+print(n6)
